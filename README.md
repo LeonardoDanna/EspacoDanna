@@ -112,14 +112,6 @@ O site é totalmente responsivo e se adapta aos seguintes breakpoints:
 - Tablet: 768px - 1024px
 - Desktop: > 1024px
 
-## 🔧 Configuração
+![screencapture-localhost-5173-2025-03-19-14_52_24](https://github.com/user-attachments/assets/eb356f54-0db9-467e-9739-1207009c6b58)
+![screencapture-localhost-5173-2025-03-19-14_54_05](https://github.com/user-attachments/assets/a1570c44-dcb4-43d7-a767-865f475aa1cb)
 
-Para configurar as variáveis de ambiente, crie um arquivo `.env` na raiz do projeto:
-
-```env
-VITE_INSTAGRAM_ACCESS_TOKEN=seu_token_aqui
-```
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. 
